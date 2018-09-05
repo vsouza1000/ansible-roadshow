@@ -159,7 +159,7 @@ Ansible should complete with no errors. You should see the changes applied to bo
 ```
 curl http://111.222.333.444:8080
 ```
-Where 111.222.. is the IP address of one of your wildfly servers.
+Where 111.222.333.444 is the IP address of one of your wildfly servers.
 
 Example output should be:
 ```
